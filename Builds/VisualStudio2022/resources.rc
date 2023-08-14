@@ -15,10 +15,10 @@ BEGIN
   BEGIN
     BLOCK "040904E4"
     BEGIN
-      VALUE "CompanyName",  "Ywen\0"
-      VALUE "FileDescription",  "Arpligner\0"
+      VALUE "CompanyName",  "Ywen/y3i12\0"
+      VALUE "FileDescription",  "Arpligner (y3i12 remix)\0"
       VALUE "FileVersion",  "0.1\0"
-      VALUE "ProductName",  "Arpligner\0"
+      VALUE "ProductName",  "Arpligner (y3i12 remix)\0"
       VALUE "ProductVersion",  "0.1\0"
     END
   END
